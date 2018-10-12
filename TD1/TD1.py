@@ -16,6 +16,6 @@ with warnings.catch_warnings(record=True) as ws:
             columns = [int(c) for c in columns]
             print("Applying %s dtype to columns:" % target_type, columns)
             my_data.iloc[:, columns] = my_data.iloc[:, columns].astype(target_type)
-        my_data.iloc[0:99, 0:4].to_csv("data_sample.csv", sep='\t', encoding='utf-8')
-        my_data.dtypes.to_json("dtypes.json")
-        print("Finished.")
+    my_data.iloc[0:99, 0:4].to_csv("data_sample.csv", sep='\t', encoding='utf-8')
+    my_data.dtypes.to_json("dtypes.json")
+    print("Finished.")
