@@ -14,7 +14,7 @@ Acquired cyber-attack data (with label). Personal reading about machine learning
 
 ### Week 5 - 6
 
-Tutorail: Learned scikit-learn and more machine learning algorithms (linear regression, logistic regression, decision tree, random forest, etc). TD2.
+Tutorial: Learned scikit-learn and more machine learning algorithms (linear regression, logistic regression, decision tree, random forest, etc). TD2.
 
 Algorithms and their implementation with scikit-learn (functions and parameters). Self-reading.
 
