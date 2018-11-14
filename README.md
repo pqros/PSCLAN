@@ -14,8 +14,6 @@ PSCLAN
 │   │       ├── Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
 │   │       ├── Tuesday-WorkingHours.pcap_ISCX.csv
 │   │       └── Wednesday-workingHours.pcap_ISCX.csv
-│   ├── GeneratedLabelledFlows.zip
-│   ├── MachineLearningCSV.zip
 │   └── MachineLearningCVE
 │       ├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 │       ├── Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
