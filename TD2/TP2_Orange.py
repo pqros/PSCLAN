@@ -1,4 +1,4 @@
-### Tri sur les variables
+
 import numpy as np;
 import sklearn;
 from sklearn import svm ;
